@@ -3,30 +3,36 @@
     "key": "VT",
     "latitude": -20.4469315,
     "longitude": -49.903465,
-    "name": "NOROACO - VT"
+    "name": "LK 1 SINALBR - VOTUPORANGA"
   },
+  {
+    "key": "RF",
+    "latitude": -20.4832397,
+    "longitude": -49.8366561,
+    "name": "RFCONNECT - VOTUPORANGA"
+  }, 
   {
     "key": "RP",
     "latitude": -20.8554347,
     "longitude": -49.3396477,
-    "name": "NOROACO - SJRP"
-  },
-  {
-    "key": "LS",
-    "latitude": -20.12345,
-    "longitude": -49.6789,
-    "name": "NOROACO - LS"
+    "name": "LK N4 TELECOM - RIO PRETO"
   },
   {
     "key": "BT",
     "latitude": -22.8543964,
     "longitude": -48.4923019,
-    "name": "NOROACO - BT"
+    "name": "LINK 1 CONNECT10 - BOTUCATU"
   },
+  {
+    "key": "LK",
+    "latitude": -20.4832397,
+    "longitude": -49.8366561,
+    "name": "LK 2 LPNET - BOTUCATU"
+  };
   {
     "key": "BM",
     "latitude": -22.5444522,
     "longitude": -44.189684,
-    "name": "NOROACO - BM"
+    "name": "LK 1 TURBONET - BARRA MANSA"
   }
 ]
