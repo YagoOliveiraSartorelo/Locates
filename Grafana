@@ -1,0 +1,32 @@
+[
+  {
+    "key": "VT",
+    "latitude": -20.4469315,
+    "longitude": -49.903465,
+    "name": "NOROACO - VT"
+  },
+  {
+    "key": "RP",
+    "latitude": -20.8554347,
+    "longitude": -49.3396477,
+    "name": "NOROACO - SJRP"
+  },
+  {
+    "key": "LS",
+    "latitude": -20.12345,
+    "longitude": -49.6789,
+    "name": "NOROACO - LS"
+  },
+  {
+    "key": "BT",
+    "latitude": -22.8543964,
+    "longitude": -48.4923019,
+    "name": "NOROACO - BT"
+  },
+  {
+    "key": "BM",
+    "latitude": -22.5444522,
+    "longitude": -44.189684,
+    "name": "NOROACO - BM"
+  }
+]
