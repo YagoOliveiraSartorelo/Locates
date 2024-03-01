@@ -28,11 +28,12 @@
     "latitude": -20.4832397,
     "longitude": -49.8366561,
     "name": "LK 2 LPNET - BOTUCATU"
-  };
+  },
   {
     "key": "BM",
     "latitude": -22.5444522,
     "longitude": -44.189684,
     "name": "LK 1 TURBONET - BARRA MANSA"
   }
+
 ]
